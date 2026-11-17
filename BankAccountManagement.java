@@ -40,7 +40,7 @@ class BankAccount {
     }
 }
 
-public class Main {
+class Main {
     public static void main(String[] args) {
         BankAccount account1 = new BankAccount(1001, "Rahul Sharma", 5000.0);
         BankAccount account2 = new BankAccount(1002, "Priya Verma", 8000.0);
